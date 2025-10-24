@@ -16,11 +16,6 @@ Testing purpose
 4. Mock external dependencies
 5. Test edge cases and error handling
 6. Maintain test coverage above 80%
-2. Follow the AAA pattern: Arrange, Act, Assert
-3. Keep tests independent and isolated
-4. Mock external dependencies
-5. Test edge cases and error handling
-6. Maintain test coverage above 80%
 
 ## Test Checklist
 - [ ] All new features have corresponding tests
