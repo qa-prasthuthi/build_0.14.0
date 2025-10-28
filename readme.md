@@ -15,11 +15,3 @@
 4. Mock external dependencies
 5. Test edge cases and error handling
 6. Maintain test coverage above 80%
-
-## Test Checklist
-- [ ] All new features have corresponding tests
-- [ ] Edge cases are covered
-- [ ] Error handling is tested
-- [ ] Performance benchmarks are met
-- [ ] Documentation is updated
-- [ ] CI/CD pipeline passes
