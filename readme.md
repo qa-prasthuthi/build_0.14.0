@@ -16,6 +16,12 @@
 5. Test edge cases and error handling
 6. Maintain test coverage
 
+## Test Types
+- Unit Testing: Test individual components and functions
+- Integration Testing: Test component interactions
+- End-to-End Testing: Test complete user workflows
+- Regression Testing: Verify existing functionality still works
+- Performance Testing: Test application speed and resource usage
 
 ## Testing Best Practices
 1. Write clear, descriptive test names
